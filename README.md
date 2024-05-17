@@ -4,9 +4,9 @@
 <h2>Th3inspector Tool 🕵️</h2>
 <img align="left" width="120" height="120" src="https://i.imgur.com/63TSBiM.png">
 <p>Th3inspector 🕵️ best tool for Information Gathering 🔎<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ All in one tool for Information Gathering ⭐ </p>
-<a href="https://github.com/Moham3dRiahi/Th3inspector"><img src="https://img.shields.io/badge/Th3inspector-1.9-brightgreen.svg" alt="Version" data-canonical-src="https://img.shields.io/badge/Th3inspector-1.9-brightgreen.svg?maxAge=259200" style="max-width:100%;"></a>
-<a href="https://github.com/Moham3dRiahi/Th3inspector"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows%2FmacOS-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows%2FmacOS-brightgreengreen.svg" style="max-width:100%;"></a>
-<a href="https://github.com/Moham3dRiahi/Th3inspector/blob/master/LICENSE"><img src="https://img.shields.io/packagist/l/doctrine/orm.svg" alt="Build" data-canonical-src="https://img.shields.io/packagist/l/doctrine/orm.svg" style="max-width:100%;"></a><br>
+<a href="https://github.com/Moham3dRiahi/Th3inspector"><img src="https://img.shields.io/badge/Th3inspector-1.9-brightgreen.svg" alt="Version" data-canonical-src="https://img.shields.io/badge/Th3inspector-1.9-brightgreen.svg?maxAge=259200" style="max-inline-size:100%;"></a>
+<a href="https://github.com/Moham3dRiahi/Th3inspector"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows%2FmacOS-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows%2FmacOS-brightgreengreen.svg" style="max-inline-size:100%;"></a>
+<a href="https://github.com/Moham3dRiahi/Th3inspector/blob/master/LICENSE"><img src="https://img.shields.io/packagist/l/doctrine/orm.svg" alt="Build" data-canonical-src="https://img.shields.io/packagist/l/doctrine/orm.svg" style="max-inline-size:100%;"></a><br>
 <hr>
 <h4>Th3inspector 🕵️ best tool for Information Gathering 🔎</h4>
 <img src="https://i.imgur.com/Q81YJCU.png" data-canonical-src="https://i.imgur.com/niFwcaM.png" width="700" height="470">
@@ -21,7 +21,7 @@
 <hr>
 
 <h2>Video</h2>
-<a href="https://youtu.be/ZvsIbhRPSrI"><img src="https://i.imgur.com/ytHi4WB.jpg" style="max-width:100%;"></a>
+<a href="https://youtu.be/ZvsIbhRPSrI"><img src="https://i.imgur.com/ytHi4WB.jpg" style="max-inline-size:100%;"></a>
 
 <h2>Usage</h2>
 
